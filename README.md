@@ -1,1 +1,1 @@
-# discord-js-basetemplate
+# Discord JS base Template
